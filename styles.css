@@ -1,0 +1,205 @@
+html {
+    scroll-behavior: smooth;
+    background-color: black;
+}
+
+body {
+    background-color: black;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.tradefy-jumbotron {
+    text-align: center;
+    font-family: 'IBM Plex Sans', sans-serif;
+    color: #e3e1d8;
+    margin-top: -20px;
+}
+
+.jumbotron {
+    background-color: black;
+    height: 1400px;
+}
+
+.tradefy-jumbotron-catchphrase {
+    text-align: center;
+    color: #f0efeb;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 25px;
+    margin-top: 40px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.img1 {
+    margin-top: 50px;
+    width: 470px;
+    filter: drop-shadow(0 0 9rem rgb(227, 225, 216));
+
+}
+
+.mockup {
+    text-align: center;
+}
+
+.buttons {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.app-store {
+    margin-right: 16px;
+}
+
+.navbar {
+    background-color: black;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey;
+    border-radius: 20px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #b4b3ab;
+    border-radius: 1px;
+}
+
+.asseenon {
+    margin-top: 200px;
+    color: white;
+    text-align: center;
+}
+
+.techcrunch {
+    width: 450px;
+}
+
+.verge {
+    margin-left: 60px;
+    width: 420px;
+}
+
+.nytimes {
+    margin-left: 60px;
+    width: 450px;
+}
+
+.wired {
+    margin-left: 60px;
+    width: 405px;
+}
+
+.cnn {
+    margin-left: 60px;
+    width: 200px;
+}
+
+.engadget {
+    margin-left: 60px;
+    width: 350px;
+}
+
+#section-2 {
+    background-color: #e3e1d8;
+}
+
+.features-sec {
+    background-color: black;
+}
+
+#plans {
+    padding-top: 70px;
+    height: 750px;
+}
+
+.pricing-heading {
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 90px;
+}
+
+.pricing-cards {
+    margin-left: 60px;
+    margin-right: 60px;
+    filter: drop-shadow(0 0 3rem rgb(227, 225, 216));
+}
+
+#get-started {
+    background-color: #e3e1d8;
+    height: 450px;
+}
+
+.ready-trading {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.get-started-cards {
+    padding-top: 40px;
+    padding-left: 19%;
+}
+
+.get-started-button {
+    background-color: transparent;
+    border-color: #918f83;
+    color: #918f83;
+    transition: all .7s;
+
+}
+
+.get-started-button:hover {
+    color: white;
+    background-color: #918f83;
+    border-color: #918f83;
+}
+
+.mybtn {
+    padding-top: 25px;
+    text-align: center;
+}
+
+.fa-right-long:hover {
+    color: white !important;
+}
+
+#support {
+    background-color: black;
+    height: 10px;
+}
+
+.need-help {
+    padding-top: 120px;
+    color: white;
+    text-align: center;
+}
+
+.help-form {
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 75px;
+    color: white;
+    margin-bottom: 10rem;
+    text-align: center;
+}
+
+#footer {
+    background-color: #e3e1d8;
+    color: black;
+    height: 50px;
+}
+
+.myfooter {
+    padding-top: 10px;
+}
+
+#footer a{
+    color: #918f83;
+}
